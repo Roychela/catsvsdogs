@@ -4,3 +4,10 @@
 .dogs p {
   background-color: steelblue;
 }
+
+.cats p {
+  background-color: coral;
+}
+.dogs p  a{
+  background-color: steelblue;
+}
